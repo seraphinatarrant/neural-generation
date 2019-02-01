@@ -2,7 +2,7 @@
 
 Hi! At the moment, this is just an area for documentation on the systems I've made. <br>
 
-The link to the UI is in the Web_Demo_Guide](https://github.com/seraphinatarrant/neural-generation/blob/master/Web_Demo_Guide.md). Just to make you open the documentation even if you don't read it. <br>
+The link to the UI is in the [Web_Demo_Guide](https://github.com/seraphinatarrant/neural-generation/blob/master/Web_Demo_Guide.md). Just to make you open the documentation even if you don't read it. <br>
 
 * For an overview on how to use the Story Writing UI, go here: [Web_Demo_Guide](https://github.com/seraphinatarrant/neural-generation/blob/master/Web_Demo_Guide.md)
 * For a short intro to how to do an Interaction based experiment, go here: [Interact_and_Learn](https://github.com/seraphinatarrant/neural-generation/blob/master/Interact_and_Learn.md)
