@@ -2,7 +2,7 @@
 This is a guide to the Interactive Web Demo of the Story Generation System, which can be found here: [cwc-story.isi.edu/](http://cwc-story.isi.edu:5002)
 
 There are two modes to the Interactive Demo `Auto` (the first page when you go to the link), 
-and `Interactive` (reached via the top nav bar). This document details how to interact with the system. Details of it's configuration and backend are in the [README], (https://github.com/isi-vista/Plan-and-write#web-demo), which you can only access if you have perms to that repo.
+and `Interactive` (reached via the top nav bar). This document details how to interact with the system. Details of it's configuration and backend are in the [README](https://github.com/isi-vista/Plan-and-write#web-demo), which you can only access if you have perms to that repo.
 
 ## Auto Mode
 
