@@ -7,3 +7,10 @@ Hi! At the moment, this is just an area for documentation on the systems I've ma
 * For instructions on doing a UI debugging session, go here: [Group_Debugging](https://github.com/seraphinatarrant/neural-generation/blob/master/Group_Debugging_and_Feedback.md)
 
 Feel free to shoot me any questions! [serif@uw.edu](mailto:serif@uw.edu)
+
+# FAQ:
+Q: How long does generating stories take?
+A: Usually about 10 seconds. But if a lot of people are using it...it can take like a minute. It's all on a few CPUs unfortunately. 
+
+Q: Is it down?
+A: Sometimes for experiments, I host this on my personal computer, so sometimes it does down for like 15 minutes. It should be back up soon. But also you can ping me and I can reboot.
