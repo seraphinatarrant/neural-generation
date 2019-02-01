@@ -14,3 +14,8 @@ Feel free to shoot me any questions! [serif@uw.edu](mailto:serif@uw.edu)
 
 **Q:** Is it down? <br>
 **A:** Sometimes for experiments, I host this on my personal computer, so sometimes it does down for like 15 minutes. It should be back up soon. But also you can ping me and I can reboot.
+
+**Q:** What is this nonesense about a stroke in 2011? <br>
+**A:** Oh yeah. So, if all the words you put it in are unknown to the model (like, it has never seen them before, also known as Out-of-vocabulary words), then it just says whatever it things is most likely to follow after a super uncommon word. One of the models really likes to tell this one in those cases.
+
+
